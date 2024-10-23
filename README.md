@@ -7,6 +7,7 @@ The above files consist of a pre-trained model and two Python files. The "run.py
 
 The Excel sheet has the following format:
 
-![image](https://github.com/user-attachments/assets/6f476a23-9df6-4339-ae4b-591791f4fe21)
+![image](https://github.com/user-attachments/assets/75f363da-cfe8-41e2-9126-69d44b5630c8)
+
 
 
